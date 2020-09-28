@@ -1,5 +1,10 @@
 # project-koudou.github.io
 
+## Deployment
+```
+npm run deploy
+```
+
 ## Project setup
 ```
 npm install
